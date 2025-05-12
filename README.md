@@ -5,3 +5,4 @@ This is a small program to find the vendor from a list of MAC addresses. This is
 Consider creating a file named "macaddress.txt" and change this line to the directory where your list will be.
 
 file = open('/mnt/c/Temp/macaddress.txt','r').read().splitlines()
+😎
