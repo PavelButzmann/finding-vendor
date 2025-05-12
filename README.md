@@ -8,4 +8,4 @@ This is a small program to find the vendor from a list of MAC addresses. This is
 
 for example if your file <ins>macaddress.txt</ins> is on <ins>/temp/programs/</ins> you need to remplace the line for
 
-### file = open('/mnt/c/Temp/macaddress.txt','r').read().splitlines()
+### file = open('/temp/programs/macaddress.txt','r').read().splitlines()
