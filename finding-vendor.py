@@ -1,6 +1,6 @@
 #!/bin/python3
-#---- Script creado por Herr Stiefel
-#---- Obtencion de comandos en switch mediante python
+#---- Script made by Pavel Butzman
+#---- We can find out the provider from MAC addresses list
 
 import time, logging, urllib3
 import requests as re
