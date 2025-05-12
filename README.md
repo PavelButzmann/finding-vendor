@@ -1,4 +1,4 @@
-# finding-vendor
+# Program to find vendor, it run in Python3
 
 This is a small program to find the vendor from a list of MAC addresses. This is useful if you have a large list and want to know who the vendor of those devices is.
 
