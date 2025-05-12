@@ -6,3 +6,7 @@ This is a small program to find the vendor from a list of MAC addresses. This is
 
 # file = open('/mnt/c/Temp/macaddress.txt','r').read().splitlines()
 
+//hola
+/hola
+'hola'
+
