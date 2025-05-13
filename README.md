@@ -17,3 +17,8 @@ python3 -m venv finding
 source finding/bin/activate
 
 ### pip install -r /path/to/requirements.txt
+
+
+after install all requirements and situated on your virtual environment you can run this program
+
+## python finding-vendor.py
