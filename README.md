@@ -12,7 +12,8 @@ for example if your file <ins>macaddress.txt</ins> is on <ins>/temp/programs/</i
 
 now please install requirements, if you want to run on virtual environment do the follow
 
- python3 -m venv finding
- source finding/bin/activate
+python3 -m venv finding
+
+source finding/bin/activate
 
 ### pip install -r /path/to/requirements.txt
